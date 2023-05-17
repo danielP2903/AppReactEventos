@@ -9,7 +9,7 @@ export const Events:IEvents[] = [
         description: 'Plan infantil express ideal para fiestas divertidas de múltiples invitados, de poca duración ideal para entretener y hacer un break en cualquier reunión que hará un dia especial e inolvidable',
         duration: '2h - 3h',
         price: '250.000',
-        img:'https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/339003961_1901964926834951_3697124979252667214_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGuVHMhHaX9lmXmeNxoxcoIqZCOHs7ya6SpkI4ezvJrpAj8IrzCZ-ccJwKik_MIIXuO8sUZxVoCR7uJZCXgupzD&_nc_ohc=Fmvusjgi6c0AX-VYzL9&_nc_ht=scontent.fbog2-4.fna&oh=00_AfClniwzjX3YhFW0obfhoeca7XYNsI6Bqi-0BgHK4oXnxw&oe=646348A5',
+        img: 'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358338/casa-croissant/infantil3_mboqg2.jpg',
         type: 'INFANTIL',
         images:[
             'https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/339003961_1901964926834951_3697124979252667214_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGuVHMhHaX9lmXmeNxoxcoIqZCOHs7ya6SpkI4ezvJrpAj8IrzCZ-ccJwKik_MIIXuO8sUZxVoCR7uJZCXgupzD&_nc_ohc=Fmvusjgi6c0AX-VYzL9&_nc_ht=scontent.fbog2-4.fna&oh=00_AfClniwzjX3YhFW0obfhoeca7XYNsI6Bqi-0BgHK4oXnxw&oe=646348A5',
@@ -30,7 +30,7 @@ export const Events:IEvents[] = [
         description: 'Plan infantil básico ideal para fiestas divertidas de pocos invitados, con todo lo necesario para que sea un dia especial e inolvidable',
         duration: '2h - 3h',
         price: '250.000',
-        img: 'https://scontent.fbog2-3.fna.fbcdn.net/v/t39.30808-6/344016286_952668729484075_5736705508280101951_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeG9Q7y-IkzpubRAuIpgCAMS_icYj7pZ8WP-JxiPulnxY0XThmUzMIXbmnk6T49-8vQ2TAz_yHclvM-HAFxdAzMI&_nc_ohc=OHHUM5oG56MAX-jw6Jj&_nc_ht=scontent.fbog2-3.fna&oh=00_AfBJ_7l3nS42CCpUyxop4xbP0YJCcWGdPyAFWLt0TLkPFQ&oe=6463E4CF',
+        img: 'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358334/casa-croissant/infantil2_zxkovw.jpg',
         type: 'INFANTIL',
         images:[
             'https://scontent.fbog2-3.fna.fbcdn.net/v/t39.30808-6/344016286_952668729484075_5736705508280101951_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeG9Q7y-IkzpubRAuIpgCAMS_icYj7pZ8WP-JxiPulnxY0XThmUzMIXbmnk6T49-8vQ2TAz_yHclvM-HAFxdAzMI&_nc_ohc=OHHUM5oG56MAX-jw6Jj&_nc_ht=scontent.fbog2-3.fna&oh=00_AfBJ_7l3nS42CCpUyxop4xbP0YJCcWGdPyAFWLt0TLkPFQ&oe=6463E4CF',
@@ -55,7 +55,7 @@ export const Events:IEvents[] = [
         description: 'Plan infantil compuesto ideal para fiestas divertidas con varios invitados, con múltiples actividades para que sea un dia especial e inolvidable',
         duration: '3h - 4h',
         price: '350.000',
-        img:  'https://scontent.fbog2-5.fna.fbcdn.net/v/t39.30808-6/256356804_2322462461222689_2257368290711520093_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGGURJ8SLkhpIXa8medxzbnEBqvVf5PPeAQGq9V_k894BaJc36Ml-62LRscwuuZMsbLY2iNQJF3N_t-_TwYWfcO&_nc_ohc=3gp4Y9BkHwIAX8W1C0O&_nc_ht=scontent.fbog2-5.fna&oh=00_AfBk_wDUCt19l0PIM-7Okbs_YjqK5z7gTCeVRbNYP_w11w&oe=64639099',
+        img: 'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358318/casa-croissant/infantil1_akanjm.jpg',
         type: 'INFANTIL',
         images:[
             'https://scontent.fbog2-5.fna.fbcdn.net/v/t39.30808-6/256356804_2322462461222689_2257368290711520093_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGGURJ8SLkhpIXa8medxzbnEBqvVf5PPeAQGq9V_k894BaJc36Ml-62LRscwuuZMsbLY2iNQJF3N_t-_TwYWfcO&_nc_ohc=3gp4Y9BkHwIAX8W1C0O&_nc_ht=scontent.fbog2-5.fna&oh=00_AfBk_wDUCt19l0PIM-7Okbs_YjqK5z7gTCeVRbNYP_w11w&oe=64639099',
@@ -81,7 +81,7 @@ export const Events:IEvents[] = [
         description: 'Plan infantil compuesto N.2 ideal para fiestas divertidas de muchos invitados, con actividades dirigidas, saltarin y decoración para que sea un dia especial e inolvidable',
         duration: '4h - 5h',
         price: '250.000',
-        img: 'https://scontent.fbog2-5.fna.fbcdn.net/v/t1.6435-9/72968266_1626446150824327_7182168419746185216_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFgj9hd-ZdG-QW1VIeTchmjgTdVZXvIeTGBN1Vle8h5MdXzfVK8PG038N3WdwJKhrqzjWd746y-_ILeaxbsGzg0&_nc_ohc=Q9eRSLS1DekAX-21xMY&_nc_ht=scontent.fbog2-5.fna&oh=00_AfD4BD4KhJiV2l_cEN1yWdVqFiWdwZVEPo-_p3wafOeqUg&oe=6486642D',
+        img:'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358318/casa-croissant/infantil1_akanjm.jpg',
         type: 'INFANTIL',
         images:[
             'https://scontent.fbog2-5.fna.fbcdn.net/v/t1.6435-9/72968266_1626446150824327_7182168419746185216_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFgj9hd-ZdG-QW1VIeTchmjgTdVZXvIeTGBN1Vle8h5MdXzfVK8PG038N3WdwJKhrqzjWd746y-_ILeaxbsGzg0&_nc_ohc=Q9eRSLS1DekAX-21xMY&_nc_ht=scontent.fbog2-5.fna&oh=00_AfD4BD4KhJiV2l_cEN1yWdVqFiWdwZVEPo-_p3wafOeqUg&oe=6486642D',
@@ -109,7 +109,7 @@ export const Events:IEvents[] = [
         description: 'Incluye todo lo relacionado a las fiestas de 15 años, desde la puesta en escena hasta la despedida, para ser de los 15 años de tu hija un recuerdo unico para la vida',
         duration: '9h - 10h',
         price:'3.000.000',
-        img: 'https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/322883342_1134827067176640_45983946840667809_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHAcMvWmOYpyB0FjNctjftjqyvKsL8lIY2rK8qwvyUhjQEmtuhW1Ky8KV3ujd4h3iDelEuaAY7GE11TSJDBMxeY&_nc_ohc=0v-_B-xGktoAX-NLwt3&_nc_ht=scontent.fbog2-4.fna&oh=00_AfBmmkLhIv0aJENV3FWGmq_LQN8-_cFkmCm73hlCN6zY9g&oe=6462F7A5',
+        img:'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358344/casa-croissant/quincea%C3%B1os_y8wh22.jpg',
         type: 'NOCTURNO',
         images:[
             'https://scontent.fbog2-4.fna.fbcdn.net/v/t39.30808-6/322883342_1134827067176640_45983946840667809_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHAcMvWmOYpyB0FjNctjftjqyvKsL8lIY2rK8qwvyUhjQEmtuhW1Ky8KV3ujd4h3iDelEuaAY7GE11TSJDBMxeY&_nc_ohc=0v-_B-xGktoAX-NLwt3&_nc_ht=scontent.fbog2-4.fna&oh=00_AfBmmkLhIv0aJENV3FWGmq_LQN8-_cFkmCm73hlCN6zY9g&oe=6462F7A5',
@@ -139,7 +139,7 @@ export const Events:IEvents[] = [
         description: 'Plan de baby shower para recibir a ese/esos sere/s amados a tu vida, dales la bienvenida como lo merecen , viviendo el amor y una experiencia unica para tu familia',
         duration: '6h - 7h',
         price: '800.000',
-        img: 'https://scontent.fbog2-5.fna.fbcdn.net/v/t1.6435-9/51358992_1418935261575418_999620901903269888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEAYLplJlqAiVtVrcC_R-TmUK_vuhVSbZZQr--6FVJtltlTkjsYlQn0hosVYNC5od3DjmV0-NPPJl-voV6uPE4_&_nc_ohc=MiIICcZCUAEAX-CEzgt&_nc_oc=AQnS5fBy47ygcko9NT4rI2g0iBhpQ6pBARQIY_PxzTLUa5OdeUkhHKP_pJX3fMRmZkU&_nc_ht=scontent.fbog2-5.fna&oh=00_AfAk5uVQQbaRRv0jDJB47cchTfuUuZcqhfBigGMXvO4RMg&oe=64867E58',
+        img:'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358344/casa-croissant/quincea%C3%B1os_y8wh22.jpg',
         type: 'NOCTURNO',
         images:[
             'https://scontent.fbog2-5.fna.fbcdn.net/v/t1.6435-9/51358992_1418935261575418_999620901903269888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEAYLplJlqAiVtVrcC_R-TmUK_vuhVSbZZQr--6FVJtltlTkjsYlQn0hosVYNC5od3DjmV0-NPPJl-voV6uPE4_&_nc_ohc=MiIICcZCUAEAX-CEzgt&_nc_oc=AQnS5fBy47ygcko9NT4rI2g0iBhpQ6pBARQIY_PxzTLUa5OdeUkhHKP_pJX3fMRmZkU&_nc_ht=scontent.fbog2-5.fna&oh=00_AfAk5uVQQbaRRv0jDJB47cchTfuUuZcqhfBigGMXvO4RMg&oe=64867E58',
@@ -163,7 +163,7 @@ export const Events:IEvents[] = [
         description: 'Casarse es una de las etapas mas importantes en la vida de las personas, por eso te ofrecemos hacer tu fiesta, donde tu solo te encargues por asistir y ser feliz, nosotros nos encargamos del resto',
         duration: '9h - 10h',
         price: '5.000.000',
-        img:'https://scontent.fbog2-5.fna.fbcdn.net/v/t39.30808-6/309662272_501339785334347_2760530464014650361_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGw_k7fQjljHP6cm9Bu9Ylk6hWz177vVN_qFbPXvu9U3zVRyZIV4SxmMWMsoJXkz2ik4ODLVcl5PNH5gmwYBlab&_nc_ohc=m38YMVo7FIwAX8mA3Fm&_nc_ht=scontent.fbog2-5.fna&oh=00_AfCMqMc52Si32B3MdVUAkbYdHV3HpMM7U0Sct4_YgHF9Xw&oe=64648977',
+        img: 'https://res.cloudinary.com/dcksxwemw/image/upload/v1684358343/casa-croissant/matrimonio_p3ofby.jpg',
         type: 'NOCTURNO',
         images: [
             'https://scontent.fbog2-5.fna.fbcdn.net/v/t39.30808-6/309662272_501339785334347_2760530464014650361_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGw_k7fQjljHP6cm9Bu9Ylk6hWz177vVN_qFbPXvu9U3zVRyZIV4SxmMWMsoJXkz2ik4ODLVcl5PNH5gmwYBlab&_nc_ohc=m38YMVo7FIwAX8mA3Fm&_nc_ht=scontent.fbog2-5.fna&oh=00_AfCMqMc52Si32B3MdVUAkbYdHV3HpMM7U0Sct4_YgHF9Xw&oe=64648977',
