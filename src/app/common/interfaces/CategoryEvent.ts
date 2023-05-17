@@ -1,0 +1,1 @@
+export type CategoryEvent = 'INFANTIL' | 'NOCTURNO' | 'COMERCIALES'
