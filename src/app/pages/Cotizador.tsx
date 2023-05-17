@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import Select from '@mui/material/Select';
 import InputLabel from '@mui/material/InputLabel';
 import { useForm } from '../common/hooks/useForm';
@@ -14,7 +16,7 @@ import { ButtonBack } from '../components/buttonBack';
 export const Cotizador = () => {
     const {cotizacion ,handleCotizacion  } = useCotizacion();
     
-    const {category,priceItem,onInputChange, onReset} = useForm({
+    const {category,priceItem,onInputChange} = useForm({
         category: {},
         priceItem:{}
     });
@@ -97,7 +99,7 @@ export const Cotizador = () => {
                     >
                         {
                             pricesItems?.map((price) =>(
-                                <MenuItem key={price.name} value={price} >{price.name} - {price.price}</MenuItem>
+                                <MenuItem key={price.name} value={price as any} >{price.name} - {price.price}</MenuItem>
                             ))
                         }
                     </Select>
